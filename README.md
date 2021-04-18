@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Building D3 interactive network graph D3 Force-Simulation + React + TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://balramchavan.medium.com/building-d3-interactive-network-graph-d3-force-simulation-react-typescript-b17e71f03913
+
 
 ## Available Scripts
 
